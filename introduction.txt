@@ -1,0 +1,2 @@
+Brief Introduction About Myself
+Hello, I'm Godwin Uwen, a passionate software engineer and AI enthusiast based in Calabar, Cross River State, Nigeria. As an ALX Software Engineering alumnus and Holberton School graduate,  I've cultivated expertise in Python, JavaScript, HTML, CSS, C, Git, and Bash, enabling me to develop secure, scalable applications that make a real impact.
